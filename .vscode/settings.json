@@ -1,0 +1,14 @@
+{
+    "discordPresence.buttons": [
+        {
+            "label": "View Repository 🔗",
+            "url": "https://github.com/zduvv/page"
+        }
+    ],
+    "discord.buttons": [
+        {
+            "label": "View Repository 🔗",
+            "url": "https://github.com/zduvv/page"
+        }
+    ]
+}
